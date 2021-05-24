@@ -21,7 +21,7 @@ X also can be calculated as follows, where I is the identity matrix and the seco
 After Rasmussen's (1958) and Hirschman's (1958) seminal works, linkages can be also defined as measures of interrelationships between economy's sectors and each sector's capacity in defining ties (or linkages) with others sectors. What has been defined as Hirschman-Rasmussen backward linkage (BL) index is a measure of how much  sector j demands  from  all sectors. By their turn, forward  linkages  (FL) are measures how sector j's production is demanded  by  the others. To  estimate the Hirschman-Rasmussen indexes, it is necessary to one calculate the matrix of technical coeffcients A, then take its average.  The indexes, then, are calculated in relation to their total average, as can be seen in equation below:
 
 <p align="center">
-  <img width="15%" height="15%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/elements.png"> 
+  <img width="20%" height="20%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/elements.png"> 
 </p> 
 
 where Uj is the sector's backward linkage index, Xj the sum of a given line, n the number of sectors, X* the total sum of coefficient, Un the sector's forward linkage index, and Xi the sum of a given column. If the index is higher than one, its contribution to the economy is above average. After Cuello et al ( ), it is also possible to 
