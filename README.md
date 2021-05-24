@@ -21,7 +21,11 @@ If the index is higher than one, its contribution to the economy is above averag
 
 
 <p align="center">
-  <img width="75%" height="75%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/equations.png"> 
+  <img width="75%" height="75%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/matrixinv.png"> 
+</p> 
+
+<p align="center">
+  <img width="75%" height="75%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/elements.png"> 
 </p> 
 
 - [Jupyter Notebook with code for the calculation of Rasmussen-Hirschman indexes.](https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/notebooks/Getting%20data.ipynb)
