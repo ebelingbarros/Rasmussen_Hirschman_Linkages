@@ -21,3 +21,4 @@ Depending  on  the  result  of  the indexes,  sectors  can  be  classified  into
   <img width="75%" height="75%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/equations.png"> 
 </p> 
 
+- [Jupyter Notebook with investments bins prediction can be found here.](https://github.com/ebelingbarros/Final-project-Ironhack-bootcamp/blob/main/files/classification_investments.ipynb)
