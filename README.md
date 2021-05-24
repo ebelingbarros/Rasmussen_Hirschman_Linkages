@@ -11,6 +11,10 @@ He proposed an unbalanced growth strategy in which investment decisions - chiefl
 
 Rasmussen Hirschman Linkages indexes are based on Leontief's pioneer input-output model (1951). In his model, the economy's total production (X) is the product of sum of the production that is devoted to  intermediate consumption of the economy's different sectors (Z)  and of demand (Y),  which computes how much sector  j  used the goods that are  produced  by  sector  i  total production. As can be seen in the equation below, A is the technical coefficients matrix any Y the vector that represents final demand. 
 
+<p align="center">
+  <img width="15%" height="15%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/equation2.png"> 
+</p> 
+
 X also can be calculated as follows, where I is the identity matrix and the second term Leontief's inverse matrix:
 
 <p align="center">
