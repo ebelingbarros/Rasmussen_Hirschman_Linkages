@@ -1,5 +1,7 @@
 # Rasmussen_Hirschman_Linkages
 
+### Theoretical foundations
+
 According to Hirschman (1977, p. 73) an industry's linkage effect may be seen as forces that facilitate investments decision through input-output relations. While backward linkages refer to these forces in input-supplying sectors, forward linkages refer to the investments that facilitated in industries that use that input, which are located upstream to it. Hirschman devised the linkages framework to challenge the worldview that also in economies that are scarcely supplied by factors of production and entrepreneurship, the market is the best coordinating institution of the process of economic development, for it does the best job in allocating the economy’s resources. 
 Hirschman believed that for economic development, "finding optimal combinations for given resources for given resources and factors of production” and “enlisting for development purposes resources and abilities that are hidden, scattered, or badly utilized” was of secondary importance (Hirschman, 1992, pp. 56-7). 
 
