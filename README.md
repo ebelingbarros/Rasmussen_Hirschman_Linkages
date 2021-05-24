@@ -12,6 +12,6 @@ With the quotient between the generator and respective direct coefficient, one c
 Depending  on  the  result  of  the indexes,  sectors  can  be  classified  into  four groups, namely, (i) independent from (or not very related to) other sectors, if both linkage  indexes  are  less  than  1;  (ii)  dependent  on  (or  strongly  related  to)  other sectors, if both linkage indexes are greaterthan 1, denoting sectors that are seen as playing a key role in the economy; (iii) dependent on inter-sectoral supply, if only the backward linkage index is greater than 1; and (iv) dependent on inter-sectoral demand,  if  only  the  forward  linkage  index  is greater  than  1.    However,  as  first observed  by  Cella  (1984)  and  Clements  (1990),  these  indexes  do  not  take  into account the production levels of each analyzed sector. 
 
 <p align="center">
-  <img width="75%" height="75%" src="https://github.com/ebelingbarros/Final-project-Ironhack-bootcamp/blob/main/figures/processo.png"> 
+  <img width="75%" height="75%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/equations.png"> 
 </p> 
 
