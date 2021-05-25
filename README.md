@@ -10,7 +10,7 @@ He proposed an unbalanced growth strategy in which investment decisions - chiefl
 
 ### The model
 
-Rasmussen Hirschman Linkages indexes are based on Wassily Leontief's pioneer input-output model (Leontief, 1951)[https://books.google.de/books?id=HH6bAAAAIAAJ&q=The+structure+of+American+economy,+1919-1939+:+an+empirical+application+of+equilibrium+analysis.&dq=The+structure+of+American+economy,+1919-1939+:+an+empirical+application+of+equilibrium+analysis.&hl=pt-PT&sa=X&redir_esc=y]. In his model, the economy's total production (X) is the sum of the total production that is devoted to  intermediate consumption of the economy's different sectors (Z) or (AY) and that of demand (Y). Here is how an input output table looks like:
+Rasmussen Hirschman Linkages indexes are based on Wassily Leontief's pioneer input-output model [Leontief, 1951](https://books.google.de/books?id=HH6bAAAAIAAJ&q=The+structure+of+American+economy,+1919-1939+:+an+empirical+application+of+equilibrium+analysis.&dq=The+structure+of+American+economy,+1919-1939+:+an+empirical+application+of+equilibrium+analysis.&hl=pt-PT&sa=X&redir_esc=y). In his model, the economy's total production (X) is the sum of the total production that is devoted to  intermediate consumption of the economy's different sectors (Z) or (AY) and that of demand (Y). Here is how an input output table looks like:
 
 <p align="center">
   <img width="97%" height="97%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/inputoutput.png"> 
