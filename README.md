@@ -44,4 +44,4 @@ After [Cuello et al's (1992)](https://www.tandfonline.com/doi/abs/10.1080/095353
 
 ### Using Python to calculate the indexes
 
-The code to calculate Rasmussen-Hirschman indexes can be found [here](https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/notebooks/Getting%20data.ipynb). 
+The code to calculate Rasmussen-Hirschman indexes with Python can be found [here](https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/notebooks/Getting%20data.ipynb). 
