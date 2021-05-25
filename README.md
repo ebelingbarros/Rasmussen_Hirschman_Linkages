@@ -44,4 +44,4 @@ After [Cuello et al's (1992)](https://www.tandfonline.com/doi/abs/10.1080/095353
 
 ### Using Python to calculate the indexes
 
-The code to calculate Rasmussen-Hirschman indexes with Python can be found [here](https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/notebooks/Getting%20data.ipynb). 
+Most of the code to calculate Rasmussen-Hirschman indexes with Python in its most basic version (without weights) can be found [here](https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/notebooks/Getting%20data.ipynb). Because I tackled this project in the very beginning in my trajectory of transitioning from Excel to Python, there are some preprocessing steps that I did in Excel, such as calculating the technical coefficients matrix. I also compiled the results on Excel, which I then reimported to a new Juypter Notebook in which I did the analysis of the results. 
