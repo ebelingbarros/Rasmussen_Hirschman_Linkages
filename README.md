@@ -27,7 +27,7 @@ As can be seen in the equation below, A is the technical coefficients matrix any
   <img width="17%" height="17%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/equation2.png"> 
 </p> 
 
-X also can be calculated as follows, where I is the identity matrix and the second term is Leontief's inverse matrix:
+X also can be calculated as follows, where I is an identity matrix and (I - A)-1 Leontief's inverse matrix:
 
 <p align="center">
   <img width="15%" height="15%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/matrixinv.png"> 
