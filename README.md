@@ -56,3 +56,53 @@ Most of the code to calculate Rasmussen-Hirschman indexes with Python in its mos
  **[Here](https://peter-puszko.medium.com/solving-leontiefs-input-output-model-in-python-a0a29455b2d8)** is an useful resource to understand how to solve Leontief’s Input-Output model using Python.
 
 ### Generating visualizations of interest 
+
+<p align="center">
+  <img width="90%" height="90%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen.png"> 
+</p> 
+
+<p align="center">
+  <img width="90%" height="90%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen_(1).png"> 
+</p> 
+
+<p align="center">
+  <img width="90%" height="90%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen_(2).png"> 
+</p> 
+
+<p align="center">
+  <img width="90%" height="90%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen_(3).png"> 
+</p> 
+
+<p align="center">
+  <img width="90%" height="90%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen_(4).png"> 
+</p> 
+
+<p align="center">
+  <img width="90%" height="90%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen_(5).png"> 
+</p> 
+
+<p align="center">
+  <img width="90%" height="90%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen_(6).png"> 
+</p> 
+
+<p align="center">
+  <img width="90%" height="90%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen_(7).png"> 
+</p> 
+
+<p align="center">
+  <img width="90%" height="90%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen_(8).png"> 
+</p> 
+
+<p align="center">
+  <img width="90%" height="90%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen_(9).png"> 
+</p> 
+
+<p align="center">
+  <img width="90%" height="90%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen_(10).png"> 
+</p> 
+
+<p align="center">
+  <img width="90%" height="90%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen_(11).png"> 
+</p> 
+
+
