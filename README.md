@@ -10,7 +10,7 @@ He proposed an unbalanced growth strategy in which investment decisions - chiefl
 
 ### The model
 
-Rasmussen Hirschman Linkages indexes are based on Wassily Leontief's pioneer input-output model [Leontief, 1951](https://books.google.de/books?id=HH6bAAAAIAAJ&q=The+structure+of+American+economy,+1919-1939+:+an+empirical+application+of+equilibrium+analysis.&dq=The+structure+of+American+economy,+1919-1939+:+an+empirical+application+of+equilibrium+analysis.&hl=pt-PT&sa=X&redir_esc=y). In his model, the economy's total production (X) is the sum of the total production that is devoted to  intermediate consumption of the economy's different sectors (Z) or (AY) and that of demand (Y). Here is how an input output table looks like:
+Rasmussen Hirschman Linkages indexes are based on Wassily Leontief's pioneer input-output model [(Leontief, 1951)](https://books.google.de/books?id=HH6bAAAAIAAJ&q=The+structure+of+American+economy,+1919-1939+:+an+empirical+application+of+equilibrium+analysis.&dq=The+structure+of+American+economy,+1919-1939+:+an+empirical+application+of+equilibrium+analysis.&hl=pt-PT&sa=X&redir_esc=y). In his model, the economy's total production (X) is the sum of the total production that is devoted to  intermediate consumption of the economy's different sectors (Z) or (AY) and that of demand (Y). Here is how an input output table looks like:
 
 <p align="center">
   <img width="97%" height="97%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/inputoutput.png"> 
@@ -28,7 +28,7 @@ X also can be calculated as follows, where I is the identity matrix and the seco
   <img width="15%" height="15%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/matrixinv.png"> 
 </p> 
 
-After Rasmussen's (1958) and Hirschman's (1958) seminal works, what has been defined as Rasmussen-Hirschman backward linkage (BL) index is a measure of how much  sector j demands  from  all sectors. By their turn, forward  linkages  (FL) are measures how sector j's production is demanded  by  the others. To  estimate the Hirschman-Rasmussen indexes, it is necessary to calculate the matrix of technical coeffcients A, and then take its average. The indexes are calculated in relation to their total average, as can be seen in equation below:
+After [Rasmussen's (1956)](https://books.google.de/books?id=RGfNQwAACAAJ&dq=%22Studies+in+intersectoral+relations.%22&hl=pt-PT&sa=X&redir_esc=y) and [Hirschman's (1958)](https://books.google.de/books?id=foREAAAAYAAJ&q=%22The+Strategy+of+Economic+Development%22+hirschman&dq=%22The+Strategy+of+Economic+Development%22+hirschman&hl=pt-PT&sa=X&ved=2ahUKEwi0zNP6uuTwAhUYtqQKHTHBDewQ6AEwBHoECAUQAg) seminal works, what has been defined as Rasmussen-Hirschman backward linkage (BL) index is a measure of how much  sector j demands  from  all sectors. By their turn, forward  linkages  (FL) are measures how sector j's production is demanded  by  the others. To  estimate the Hirschman-Rasmussen indexes, it is necessary to calculate the matrix of technical coeffcients A, and then take its average. The indexes are calculated in relation to their total average, as can be seen in equation below:
 
 <p align="center">
   <img width="20%" height="20%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/elements.png"> 
