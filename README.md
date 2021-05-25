@@ -42,4 +42,7 @@ After Cuello et al's (1992) contribution, it is also possible to use weighted ba
   <img width="20%" height="20%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/withweights.png"> 
 </p> 
 
+### Using Python to calculate the indexes
+
+
 - [Jupyter Notebook with code for the calculation of Rasmussen-Hirschman indexes.](https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/notebooks/Getting%20data.ipynb)
