@@ -28,6 +28,9 @@ After Rasmussen's (1958) and Hirschman's (1958) seminal works, what has been def
   <img width="20%" height="20%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/elements.png"> 
 </p> 
 
-where Uj is the sector's backward linkage index, Xj the sum of a given line, n the number of sectors, X* the total sum of coefficient, Un the sector's forward linkage index, and Xi the sum of a given column. If the index is higher than one, its contribution to the economy is above average. After Cuello et al ( ), it is also possible to 
+where Uj is the sector's backward linkage index, Xj the sum of a given line, n the number of sectors, X* the total sum of coefficient, Un the sector's forward linkage index, and Xi the sum of a given column. If the index is higher than one, its contribution to the economy is above average. 
+
+After Cuello et al's (1992) contribution, it is also possible to use weighted backward and forward linkage indexes. 
+
 
 - [Jupyter Notebook with code for the calculation of Rasmussen-Hirschman indexes.](https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/notebooks/Getting%20data.ipynb)
