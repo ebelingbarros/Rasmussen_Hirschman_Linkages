@@ -1,5 +1,10 @@
 # Rasmussen_Hirschman_Linkages
 
+<p align="center">
+  <img width="100%" height="100%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/linkages.png"> 
+</p> 
+Cara Ewing/Minneapolis Fed
+
 ### Theoretical foundations
 
 An industry's linkage effect may be seen as **forces that facilitate investments decision through input-output relations** [(Hirschman, 1977, p. 73)](https://www.degruyter.com/document/doi/10.1515/9781400848409-008/html). While backward linkages refer to these forces in **input-supplying** sectors, forward linkages refer to the investments that are facilitated in industries that **use that input**, which are located upstream to it. They can be also defined as measures of interrelationships between economy's sectors and each sector's capacity in defining ties (or linkages) with others sectors. 
