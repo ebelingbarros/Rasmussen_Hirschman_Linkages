@@ -55,4 +55,4 @@ Most of the code to calculate Rasmussen-Hirschman indexes with Python in its mos
  
  **[Here](https://peter-puszko.medium.com/solving-leontiefs-input-output-model-in-python-a0a29455b2d8)** is an useful resource to understand how to solve Leontief’s Input-Output model using Python.
 
-### Extracting visualizations of interest 
+### Generating visualizations of interest 
