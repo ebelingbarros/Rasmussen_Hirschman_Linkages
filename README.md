@@ -58,51 +58,51 @@ Most of the code to calculate Rasmussen-Hirschman indexes with Python in its mos
 ### Generating visualizations of interest 
 
 <p align="center">
-  <img width="90%" height="90%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen.png"> 
+  <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen.png"> 
 </p> 
 
 <p align="center">
-  <img width="90%" height="90%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen_(1).png"> 
+  <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen_(1).png"> 
 </p> 
 
 <p align="center">
-  <img width="90%" height="90%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen_(2).png"> 
+  <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen_(2).png"> 
 </p> 
 
 <p align="center">
-  <img width="90%" height="90%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen_(3).png"> 
+  <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen_(3).png"> 
 </p> 
 
 <p align="center">
-  <img width="90%" height="90%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen_(4).png"> 
+  <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen_(4).png"> 
 </p> 
 
 <p align="center">
-  <img width="90%" height="90%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen_(5).png"> 
+  <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen_(5).png"> 
 </p> 
 
 <p align="center">
-  <img width="90%" height="90%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen_(6).png"> 
+  <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen_(6).png"> 
 </p> 
 
 <p align="center">
-  <img width="90%" height="90%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen_(7).png"> 
+  <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen_(7).png"> 
 </p> 
 
 <p align="center">
-  <img width="90%" height="90%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen_(8).png"> 
+  <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen_(8).png"> 
 </p> 
 
 <p align="center">
-  <img width="90%" height="90%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen_(9).png"> 
+  <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen_(9).png"> 
 </p> 
 
 <p align="center">
-  <img width="90%" height="90%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen_(10).png"> 
+  <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen_(10).png"> 
 </p> 
 
 <p align="center">
-  <img width="90%" height="90%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen_(11).png"> 
+  <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen_(11).png"> 
 </p> 
 
 
