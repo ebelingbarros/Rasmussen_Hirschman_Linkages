@@ -150,6 +150,13 @@ Most of the code to calculate Rasmussen-Hirschman indexes with Python in its mos
 </p> 
 
 
+<p align="center">
+  <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/4x4_1.png"> 
+</p> 
 
+
+<p align="center">
+  <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/4x4_2.png"> 
+</p> 
 
 
