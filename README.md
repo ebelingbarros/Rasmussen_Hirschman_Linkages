@@ -105,4 +105,51 @@ Most of the code to calculate Rasmussen-Hirschman indexes with Python in its mos
   <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen_(11).png"> 
 </p> 
 
+<p align="center">
+  <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/HerunterladenF.png"> 
+</p> 
+
+<p align="center">
+  <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/HerunterladenF2.png"> 
+</p> 
+
+<p align="center">
+  <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/HerunterladenF3.png"> 
+</p> 
+
+<p align="center">
+  <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/HerunterladenF4.png"> 
+</p> 
+
+<p align="center">
+  <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/HerunterladenF5.png"> 
+</p> 
+
+<p align="center">
+  <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/HerunterladenF6.png"> 
+</p> 
+
+<p align="center">
+  <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/HerunterladenF7.png"> 
+</p> 
+
+<p align="center">
+  <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/HerunterladenF8.png"> 
+</p> 
+
+<p align="center">
+  <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/HerunterladenF9.png"> 
+</p> 
+
+<p align="center">
+  <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/HerunterladenF10.png"> 
+</p> 
+
+<p align="center">
+  <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/HerunterladenF11.png"> 
+</p> 
+
+
+
+
 
