@@ -151,12 +151,12 @@ Most of the code to calculate Rasmussen-Hirschman indexes with Python in its mos
 
 
 <p align="center">
-  <img width="75%" height="75%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/4x4_1.png"> 
+  <img width="75%" height="75%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/4x4_3.png"> 
 </p> 
 
 
 <p align="center">
-  <img width="75%" height="75%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/4x4_2.png"> 
+  <img width="75%" height="75%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/4x4_4.png"> 
 </p> 
 
 
