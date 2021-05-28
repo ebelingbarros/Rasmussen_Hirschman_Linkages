@@ -167,7 +167,7 @@ Through the visualizations below, I try to spot multiple equilibria, which in th
 
 
 <p align="center">
-  <img width="75%" height="75%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/4x4_4.png"> 
+  <img width="75%" height="75%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/4x4_5.png"> 
 </p> 
 
 
