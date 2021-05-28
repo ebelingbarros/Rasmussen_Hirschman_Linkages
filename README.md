@@ -5,6 +5,10 @@
 </p> 
 Cara Ewing/Minneapolis Fed
 
+### Project outline and objectives
+
+
+
 ### Theoretical foundations
 
 An industry's linkage effect may be seen as **forces that facilitate investments decision through input-output relations** [(Hirschman, 1977, p. 73)](https://www.degruyter.com/document/doi/10.1515/9781400848409-008/html). While backward linkages refer to these forces in **input-supplying** sectors, forward linkages refer to the investments that are facilitated in industries that **use that input**, which are located upstream to it. They can be also defined as measures of interrelationships between economy's sectors and each sector's capacity in defining ties (or linkages) with others sectors. 
@@ -56,6 +60,13 @@ Most of the code to calculate Rasmussen-Hirschman indexes with Python in its mos
  **[Here](https://peter-puszko.medium.com/solving-leontiefs-input-output-model-in-python-a0a29455b2d8)** is an useful resource to understand how to solve Leontief’s Input-Output model using Python.
 
 ### Generating visualizations of interest 
+
+#### Looking at the entire data set
+It is now time to visually explore if there are interesting correlations between the calculated backward and forward linkage indexes and other variables of interest, such as GDP per capita. The project's main question is whether manufacturing matters for economic development. To assess this, I try to find if there is a correlation between high backward and forward linkages and and elevated GDP per capita. I look at the scores for selected sectors from the commodities, manufacturing and services sector. 
+
+Through the visualizations below, I try to spot multiple equilibria, which in the visualisations can be understood as the presence of two or more darker dots, in which more unique points (combinations of the calculated index and the gdp per capita level for a year) are clustered. The visual inspection of the graphs suggests that there is not much evidence, with the exception of some sectors, that there is generalized correlation between higher gdp per capita and higher scores in the manucaturing sector. Before proceding to the interpretation for why this is so, let's take a look at some graphs. 
+
+
 
 <p align="center">
   <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen.png"> 
