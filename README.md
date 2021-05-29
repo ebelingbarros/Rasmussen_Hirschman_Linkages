@@ -7,7 +7,7 @@ Cara Ewing/Minneapolis Fed
 
 ### Project outline, objectives and key takeaways
 
-
+Still in progress ..
 
 ### Theoretical foundations
 
@@ -102,7 +102,11 @@ Unfortunately (at least from the point of view of the confirmation of my hypothe
   <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen_(5).png"> 
 </p> 
 
+Still in progress ..
+
 #### Looking only at the case of Brazil
+
+Still in progress ..
 
 <p align="center">
   <img width="75%" height="75%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/4x4_3.png"> 
