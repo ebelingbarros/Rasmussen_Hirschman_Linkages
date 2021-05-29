@@ -5,7 +5,7 @@
 </p> 
 Cara Ewing/Minneapolis Fed
 
-### Project outline and objectives
+### Project outline, objectives and key takeaways
 
 
 
@@ -72,96 +72,37 @@ The following graph, which relates the backward linkage indexes of the C28 secto
   <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen.png"> 
 </p> 
 
-
-
-<p align="center">
-  <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen_(1).png"> 
-</p> 
-
-<p align="center">
-  <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen_(2).png"> 
-</p> 
-
-<p align="center">
-  <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen_(3).png"> 
-</p> 
-
-<p align="center">
-  <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen_(4).png"> 
-</p> 
-
-<p align="center">
-  <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen_(5).png"> 
-</p> 
-
-<p align="center">
-  <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen_(6).png"> 
-</p> 
+The same holds for "C27", which refers to "Manufacture of computer, electronic and optical products". Observe how a majority of countries/points are clustered at a relatively low level of GDP per capita and weighted backward linkage, but that there is also a higher equilibrium, albeit a much smaller one.
 
 <p align="center">
   <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen_(7).png"> 
 </p> 
 
-<p align="center">
-  <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen_(8).png"> 
-</p> 
+The following graph, which plots the results from "B" ("Mining and quarrying") permits an analogous interpretation. Countries with a higher GDP per capita tend to have a lower weighted backward linkage in an activity whose value-added is considerably lower, at it is not a manufacturing sector.  
 
 <p align="center">
-  <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen_(9).png"> 
+  <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen_(4).png"> 
 </p> 
 
-<p align="center">
-  <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen_(10).png"> 
-</p> 
-
-<p align="center">
-  <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen_(11).png"> 
-</p> 
-
-<p align="center">
-  <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/HerunterladenF.png"> 
-</p> 
-
-<p align="center">
-  <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/HerunterladenF2.png"> 
-</p> 
+Now let's take a look of some of the results found for Weighted Forward Linkages. Recall that a Forward Linkage index tell us how much of a given sector's production is demanded by others as an input. What this graph is telling us (it refers to "Manufacture of chemicals and chemical products") is that countries with a high GDP per capita demand a lot of chemicals and chemicals products to unfold their productive processes. 
 
 <p align="center">
   <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/HerunterladenF3.png"> 
 </p> 
 
-<p align="center">
-  <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/HerunterladenF4.png"> 
-</p> 
-
-<p align="center">
-  <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/HerunterladenF5.png"> 
-</p> 
-
-<p align="center">
-  <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/HerunterladenF6.png"> 
-</p> 
-
-<p align="center">
-  <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/HerunterladenF7.png"> 
-</p> 
-
-<p align="center">
-  <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/HerunterladenF8.png"> 
-</p> 
-
-<p align="center">
-  <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/HerunterladenF9.png"> 
-</p> 
+What about IT and computer programming? This here refers to the Weighted Forward Backward Linkage of "Computer programming, consultancy and related activities; information service activities". The graph tells us that there is indeed an equilibrium (albeit a small one) in which developed countries (in terms of GDP per capita) have a high demand for goods and services from that sector. Think about a country like Germany, where the demand for IT services is blooming! 
 
 <p align="center">
   <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/HerunterladenF10.png"> 
 </p> 
 
+Unfortunately (at least from the point of view of the confirmation of my hypothesis), many graphs look like this. Both countries with high and low GDP per capita tend to have a similar level of Weighted Backward Linkage Index for "Manufacture of computer, electronic and optical products". In other words, in both types of countries this sector demands a comparable amount of inputs from other sectors.
+
 <p align="center">
-  <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/HerunterladenF11.png"> 
+  <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen_(5).png"> 
 </p> 
 
+#### Looking only at the case of Brazil
 
 <p align="center">
   <img width="75%" height="75%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/4x4_3.png"> 
