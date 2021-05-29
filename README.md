@@ -66,11 +66,13 @@ It is now time to visually explore if there are interesting correlations between
 
 Through the visualizations below, I try to spot multiple equilibria, which in the visualisations can be understood as the presence of two or more darker dots, in which more unique points (combinations of the calculated index and the gdp per capita level for a year) are clustered. The visual inspection of the graphs suggests that there is not much evidence, with the exception of some sectors, that there is generalized correlation between higher gdp per capita and higher scores in the manucaturing sector. Before proceding to the interpretation for why this is so, let's take a look at some graphs. 
 
-
+The following graph, which relates the backward linkage indexes of the C28 sector ("Manufacture of machinery and equipment n.e.c." in the ISIC classification) with the countries' GDP per capita, for the 2000-2014 period, confirms my working hypothesis. The graph tells us that there are two equilibria. One, in which countries have a low gdp per capita and a low weighted backward linkage, and another in which the gdp per capita is high and the weighted backward linkage is slightly higher. Its reading suggests that manufacturing does matter for economic growth and development! 
 
 <p align="center">
   <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen.png"> 
 </p> 
+
+
 
 <p align="center">
   <img width="50%" height="50%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/Herunterladen_(1).png"> 
