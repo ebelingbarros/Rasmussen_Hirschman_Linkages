@@ -7,7 +7,7 @@ Cara Ewing/Minneapolis Fed
 
 ### Project outline, objectives and key takeaways
 
-Still in progress ..
+- The chief objective of this project was to train and test my abilities using Python. 
 
 ### Theoretical foundations
 
