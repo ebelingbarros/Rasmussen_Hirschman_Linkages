@@ -110,14 +110,14 @@ Now I turn to the case of Brazil, which I have been studying for a long time, pa
 
 The main takeway of the first graph is that the demand for goods and services parting from the commodities sector , which includes, among others agricultue and mining, oscillates more strongly than the one from the two other sectors. This suggests that there might be a stronger cyclical component in the former's business cycle than in the former's. It is known that Brazil's economy is passing through a strong deindusitrialization process, in which commodities are growingly having a larger economic role. What this finding suggests, then, is that the deindustrialization process also subjects the economy to more stronger upswings in demand for goods and services, producing more uncertainties in the entire goods and services supplier chains.  
 
-<p align="center"> Backward linkages vs time </p> 
+<p align="center"><b> Backward linkages vs time </b></p> 
 <p align="center">
   <img width="75%" height="75%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/4x4_3.png"> 
 </p> 
 
 For forward linkages the reading is analogous. Brazil mostly exports the commodities it produces. Therefore their impact on other sectors of the economy as an input (in terms of employment and productive growth) is not very large as those from manufactured goods and from services, which are chiefly consumed domestically. The fact that there have been much stronger oscillation in commodities' forward linkages suggests that this effect is magnified. While the country does export a large percentage of the commodities it produces, it also consumes it domestically. However, commodities are generally priced abroad. Above all in the 2000-2010 period, there has been a global "commodities supercycle", in which demand for those goods, and, consequently, prices, grew impressively, also in the domestic market. While strong forward linkages generally express a virtuous relationship between a sector and the others that demand its goods, the strong oscillations, which may habe been explained by strong price oscillations, may have been turned into a disturbing factor. This suggests that commodities may not be a reliable driver of growth.
 
-<p align="center"> Forward linkages vs time </p>
+<p align="center"><b> Forward linkages vs time </b></p>
 <p align="center">
   <img width="75%" height="75%" src="https://github.com/ebelingbarros/Rasmussen_Hirschman_Linkages/blob/main/images/4x4_5.png"> 
 </p> 
